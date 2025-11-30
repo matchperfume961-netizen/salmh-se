@@ -14,7 +14,7 @@ app.use(require("morgan")("dev"));
 
 const emailData = {
   user: "pnusds269@gmail.com",
-  pass: "ebht asas lnye yizp",
+  pass: "dhsc vxaq mtaa oktd",
   // user: "karamalzoubi2045@gmail.com",
   // pass: "aczd aicu rmru eiha",
 };
